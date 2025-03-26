@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Souza</h1>
 <h3 align="center">I'm working as a Jr Developer!</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=LucasSouza76&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="lucassouza76" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSouza76&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="lucassouza76" /></p>
 
 <h3 align="center">Languages and Tools:</h3>
