@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/LucasSouza76">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=800&color=5BD98C&center=true&vCenter=true&width=520&lines=Jr+Front-End+Developer+%40+nxg-io;Angular+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Ionic;Building+web%2C+mobile+and+desktop+apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=800&color=5BD98C&center=true&vCenter=true&width=520&lines=Jr+Front-End+Developer;Angular+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Ionic;Building+web%2C+mobile+and+desktop+apps" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  📍 São Paulo, Brazil &nbsp;·&nbsp; 💼 Jr Front-End Developer at <a href="https://github.com/nxg-io">@nxg-io</a>
+  📍 São Paulo, Brazil &nbsp;·&nbsp; 💼 Jr Front-End Developer
 </p>
 
 <p align="center">
@@ -55,7 +55,6 @@
   <img src="https://img.shields.io/badge/Vite-0D1D15?style=for-the-badge&logo=vite&logoColor=A78BFA" alt="Vite" />
   <img src="https://img.shields.io/badge/Vitest-0D1D15?style=for-the-badge&logo=vitest&logoColor=6E9F18" alt="Vitest" />
   <img src="https://img.shields.io/badge/Git-0D1D15?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-0D1D15?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
 </p>
 
 ---
@@ -70,6 +69,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LucasSouza76&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1D15&title_color=5BD98C&icon_color=5BD98C&text_color=D2EE98" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSouza76&layout=compact&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1D15&title_color=5BD98C&text_color=D2EE98" alt="Most used languages" />
 </p>
