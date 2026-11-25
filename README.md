@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/LucasSouza76">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=800&color=5BD98C&center=true&vCenter=true&width=520&lines=Jr+Front-End+Developer;Angular+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Ionic;Building+web%2C+mobile+and+desktop+apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=800&color=5BD98C&center=true&vCenter=true&width=520&lines=Software+Engineer;Angular+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Ionic;Building+web%2C+mobile+and+desktop+apps" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  📍 São Paulo, Brazil &nbsp;·&nbsp; 💼 Jr Front-End Developer
+  📍 São Paulo, Brazil &nbsp;·&nbsp; 💼 Software Engineer
 </p>
 
 <p align="center">
